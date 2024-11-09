@@ -1,1 +1,1 @@
-# hackathon202402
+Website code for a website that allows users to complete a quiz and be matched to other users in the database based off of the answers given through passing the results into ChatGPT which then evaluates the results and returns users with similar results, the website also features information on the project with facts and figures.
